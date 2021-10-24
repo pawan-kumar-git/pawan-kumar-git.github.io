@@ -30,11 +30,23 @@ git config --global --edit
 press i to write in VI text editor and  change your user name and user email
 Then,to save in VI press ESC and :wq and press enter.
 
-/****************Want to remove or add remote  *******************************************/
-//error: remote origin already exists.
+#####  Q.How to add or remove remote orgin?
+A.  if remote is already configured and you try to configure it again, then the following error will come
+~~~
+error: remote origin already exists.
+~~~
+Use the following command to remove origin
+~~~
 git remote remove origin
+~~~
+Check whether it got removed or not
+~~~
 git remote -v
-git remote add origin https://github.com/pawan-kumar-git/Resume_Latest.git
+~~~
+Add a new remote origin such as
+~~~
+git remote add origin https://github.com/pawan-kumar-git/Latest.git
+~~~
 /*****************Changing Window Credential**********************************************/
 Step by step:
 1. Open Windows search
