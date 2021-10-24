@@ -85,4 +85,15 @@ token instead
 12. It will show all generic credentials. Find your GitHub URL and click on that. Now click on the edit button. And then 
 add the personal access token  generated from GitHub into the password field. And click on the Save button.
 13. Now you can access Git
+/********************************Important links for markdown*********************************/
+https://pages.github.com/
+https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136
+https://phuston.github.io/patrickandfrantonarethebestninjas/howto
+https://www.markdownguide.org/basic-syntax/
+/***********How to fork new git hub pages*************************************/
+Open your github account
+paste the address from other github account on the same url
+Do fork
+Rename project
+
 /********************************End of File************************************************************/
