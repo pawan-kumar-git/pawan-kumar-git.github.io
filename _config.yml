@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "https://user-images.githubusercontent.com/91775317/138593344-0d28f6a5-bf54-42c0-9aa2-9ad77496a341.PNG"
+ # title-img: "https://user-images.githubusercontent.com/91775317/138593344-0d28f6a5-bf54-42c0-9aa2-9ad77496a341.PNG"
 
 # --- Background colour/image options --- #
 
