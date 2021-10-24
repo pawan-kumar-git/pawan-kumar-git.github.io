@@ -1,5 +1,9 @@
-## Pawan Git Hub Pages
-### Here I write the thoughts to hack my day to day problems
+## There are lots of questions come into mind in beginners which are using git-hub first time. 
+
+### FAQs
+#### Q.From where git gui downloads?
+
+
 /*********************Download git gui from here and run exe**********************************/
 https://git-scm.com/downloads
 /**********************To configue local git with your user name and email********************/
