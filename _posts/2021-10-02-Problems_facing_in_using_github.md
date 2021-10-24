@@ -1,7 +1,7 @@
-## There are lots of questions come into mind in beginners which are using git-hub first time. 
+#### There are lots of questions come into mind in beginners which are using git-hub first time.Here theses questions are answered 
 
-### FAQs
-#### Q.From where git gui downloads?
+##### FAQs
+#####  Q.From where git gui downloads?
 
 
 /*********************Download git gui from here and run exe**********************************/
