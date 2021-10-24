@@ -4,18 +4,18 @@
 #####  Q.From where git gui downloads?
 A. You can download git Gui from [Here](https://git-scm.com/downloads).
 
-Click on  download tab as shown in figure on that page
+Click on  download tab as shown in figure on that page and Run it.
 ![GitGuiDownload](https://user-images.githubusercontent.com/91775317/138591418-90732dc5-13c9-4458-b4ab-bf2a95369d1a.PNG)
 
+#####  Q.What is GitGui and GitBash. how to use them?
 
-
-/*********************Download git gui from here and run exe**********************************/
-https://git-scm.com/downloads
-/**********************To configue local git with your user name and email********************/
+#####  Q.How to configue local git with your user name and email?
+A. Use the following commends in git bash to configure it.
+~~~
 git config --list
 git config —local user.name “ your name ”
 git config —local user.email “ your email with @ ”
-
+~~~
 /**************When your remove git and install with different name**************************/
 //error: key does not contain a section: —local
 // changed user name and user email ID
