@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Pawan Kumar website
+title: Pawan Kumar
 
 # Short description of your site
 description: NIL
@@ -29,11 +29,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "https://user-images.githubusercontent.com/91775317/138593344-0d28f6a5-bf54-42c0-9aa2-9ad77496a341.PNG"
+avatar: "/img/sm.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "https://user-images.githubusercontent.com/91775317/138593344-0d28f6a5-bf54-42c0-9aa2-9ad77496a341.PNG"
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -52,9 +52,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/bgimage.png"
- footer-img: "/img/bgimage.png"
- page-img: "/img/bgimage.png"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -68,7 +68,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  rss: flase
   email: "pawanji@yahoo.com"
 #  facebook: ouch
 #  github: ramangopalan
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pawan-kumar-git.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pawan-kumar53.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -260,5 +260,5 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
- Modified by Pawan for fun. Thanks Dean Attali!
+# Modified by Raman for fun. Thanks Dean Attali!
 # 2fc73a3a967e97599c9763d05e564189
