@@ -2,6 +2,7 @@
 
 ##### FAQs
 #####  Q.From where git gui downloads?
+A. you can download git Gui from [Here](https://git-scm.com/downloads)
 
 
 /*********************Download git gui from here and run exe**********************************/
