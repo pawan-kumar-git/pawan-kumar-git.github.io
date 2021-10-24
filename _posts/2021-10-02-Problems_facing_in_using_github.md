@@ -47,39 +47,28 @@ Add a new remote origin such as
 ~~~
 git remote add origin https://github.com/pawan-kumar-git/Latest.git
 ~~~
-/*****************Changing Window Credential**********************************************/
-Step by step:
-1. Open Windows search
-2. Type: Git Bash
-3. Click second mouse button and select: Run as administrator
-4. Go to your project directory:
-cd "C:\path\to\our\project\name"
-
-cd "C:\path\to\our\project\name"
-5. Execute command:
+#####  Q.How to change Window Credential?
+A. Open Git Bash in current Directory and run the following command
+~~~
 git config --system --unset credential.helper
-/**************************************************************************************/
-//error: src refspec master does not match any
-Cause
+~~~
+### How to resolve following error
+~~~
+error: src refspec master does not match any
+~~~
+A.
 This is caused by the repository still being empty. There are no commits in the repository
- and thus no master branch to push to the server.
-Resolution
-Create the first commit inside of the repository and then it can be pushed. For example, the
- following with create an initial commit and push it to the server.
-Commands
-
+ and thus no master branch to push to the server. To resolve it,Create the first commit inside 
+ of the repository and then it can be pushed. For example, the
+ following commands will create an initial commit and push it to the server.
+~~~
 touch initial
-
 git add initial
-
 git commit -m "initial commit"
-
 git push -u origin master
-
 or
-
 git push  origin master
-
+~~~
 /****************************Token Authentication********************************************************/
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access
 token instead
