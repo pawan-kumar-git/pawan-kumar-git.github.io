@@ -52,9 +52,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ navbar-img: "/img/bgimage.png"
+ footer-img: "/img/bgimage.png"
+ page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pawan-kumar53.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pawan-kumar-git.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -260,5 +260,5 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
-# Modified by Raman for fun. Thanks Dean Attali!
+ Modified by Pawan for fun. Thanks Dean Attali!
 # 2fc73a3a967e97599c9763d05e564189
