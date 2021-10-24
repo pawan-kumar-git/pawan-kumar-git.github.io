@@ -16,29 +16,20 @@ git config --list
 git config —local user.name “ your name ”
 git config —local user.email “ your email with @ ”
 ~~~
-/**************When your remove git and install with different name**************************/
-//error: key does not contain a section: —local
-// changed user name and user email ID
-paste the following code to terminal it will open global config file in VI text editor
 
+#####  Q.How to configue local git again, when your remove git and install with different name?
+A.
+   when you remove the git and install it from diferrent username.Then you try to use the git bash.Then following error will come
+~~~
+error: key does not contain a section: —local
+~~~
+To resolve that,paste the following code on the git-bash terminal. It will open global config file in VI text editor
+~~~
 git config --global --edit
-press i to write in VI text editor and remove all the text and paste the following
+~~~
+press i to write in VI text editor and  change your user name and user email
+Then,to save in VI press ESC and :wq and press enter.
 
-Change your user name and user email 
-
-OR
-
-[core]
-repositoryformatversion = 0
-filemode = true
-bare = false
-logallrefupdates = true
-ignorecase = true
-precomposeunicode = true
-
-Then,
-
-to save in VI press ESC and :wq and press enter
 /****************Want to remove or add remote  *******************************************/
 //error: remote origin already exists.
 git remote remove origin
