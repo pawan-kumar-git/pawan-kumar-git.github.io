@@ -52,7 +52,7 @@ A. Open Git Bash in current Directory and run the following command
 ~~~
 git config --system --unset credential.helper
 ~~~
-### How to resolve following error
+#### Q.How to resolve following error
 ~~~
 error: src refspec master does not match any
 ~~~
@@ -69,33 +69,40 @@ git push -u origin master
 or
 git push  origin master
 ~~~
-/****************************Token Authentication********************************************************/
+#### Q.How to use Token Authentication or you got following error??
+~~
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access
 token instead
-1. First of all Open This URL
-2. And log in with your credentials.
-3. Click on the Setting menu.
-4. Then, From the Setting menu click on Developer Settings
-5. Now, From the Developer Settings, menu click on Personal access token
-6. From the Personal access token click on the Generate new Token button.
-7. Now fill up required details like Note, Expiration, Select scopes. And then click on below Generate Token button.
-8. After that new token has been generated. Copy that generated token and use this token to access Git with username
+~~
+A.
+1. Click on the Setting menu.
+2. Then, From the Setting menu click on Developer Settings
+3. Now, From the Developer Settings, menu click on Personal access token
+4. From the Personal access token click on the Generate new Token button.
+5. Now fill up required details like Note, Expiration, Select scopes. And then click on below Generate Token button.
+6. After that new token has been generated. Copy that generated token and use this token to access Git with username
  and token.
-10. If you are using Windows then please follow the below steps.
-11. Open Control Panel => User Accounts => Manage your credentials => Windows Credentials.
-12. It will show all generic credentials. Find your GitHub URL and click on that. Now click on the edit button. And then 
+7. If you are using Windows then please follow the below steps.
+8. Open Control Panel => User Accounts => Manage your credentials => Windows Credentials.
+9. It will show all generic credentials. Find your GitHub URL and click on that. Now click on the edit button. And then 
 add the personal access token  generated from GitHub into the password field. And click on the Save button.
-13. Now you can access Git
-/********************************Important links for markdown*********************************/
-####References
-[1](https://pages.github.com/)
-[2](https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136)
-[3](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
-[4](https://www.markdownguide.org/basic-syntax/)
-/***********How to fork new git hub pages*************************************/
+10. Now you can access Git
+
+#### Q.How to fork new git hub pages??
+A.
 Open your github account
 paste the address from other github account on the same url
 Do fork
 Rename project
 
-/********************************End of File************************************************************/
+####References
+[1](https://pages.github.com/)
+[2](https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136)
+[3](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
+[4](https://www.markdownguide.org/basic-syntax/)
+
+### If you want to give any suggestion regarding article, mail me
+~~~
+pawanji@yahoo.com
+~~~
+
