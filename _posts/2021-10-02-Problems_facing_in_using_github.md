@@ -101,7 +101,8 @@ Rename project
 [3](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
 [4](https://www.markdownguide.org/basic-syntax/)
 [5](https://github.com/daattali/beautiful-jekyll)
-
+[6](https://github.com/mhart/blog/blob/master/_blog.config.yml)
+[7](https://hardyeats.github.io/docs/7.5.0/config/)
 ### If you want to give any suggestion regarding article, mail me
 ~~~
 pawanji@yahoo.com
