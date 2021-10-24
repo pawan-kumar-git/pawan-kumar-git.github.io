@@ -100,6 +100,7 @@ Rename project
 [2](https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136)
 [3](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
 [4](https://www.markdownguide.org/basic-syntax/)
+[5](https://github.com/daattali/beautiful-jekyll)
 
 ### If you want to give any suggestion regarding article, mail me
 ~~~
