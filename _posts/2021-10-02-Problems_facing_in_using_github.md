@@ -87,10 +87,11 @@ token instead
 add the personal access token  generated from GitHub into the password field. And click on the Save button.
 13. Now you can access Git
 /********************************Important links for markdown*********************************/
-https://pages.github.com/
-https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136
-https://phuston.github.io/patrickandfrantonarethebestninjas/howto
-https://www.markdownguide.org/basic-syntax/
+####References
+[1](https://pages.github.com/)
+[2](https://harrywang.medium.com/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136)
+[3](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
+[4](https://www.markdownguide.org/basic-syntax/)
 /***********How to fork new git hub pages*************************************/
 Open your github account
 paste the address from other github account on the same url
