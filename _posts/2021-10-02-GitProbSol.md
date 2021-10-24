@@ -1,12 +1,8 @@
-/*********************download git gui from here and run exe**********************************/
-
+/*********************Download git gui from here and run exe**********************************/
 https://git-scm.com/downloads
-
-/********************************************************************************************/
+/**********************To configue local git with your user name and email********************/
 git config --list
-
 git config —local user.name “ your name ”
-
 git config —local user.email “ your email with @ ”
 
 /**************When your remove git and install with different name**************************/
